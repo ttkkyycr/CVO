@@ -97,7 +97,7 @@ number,name,primary_patency,procedure_time,gender,age,primary_disease,height,wei
 92,许广杨,14,115,male,54,unknow,164,79,29.37239738,yes,Ⅱ,no,no,yes,yes,yes,no,no,36,32,2,2,no,no ,fore,AVG,SVC,SVC,0,yes,no,no,no,yes,13,2533,,1,1,coverd,13
 93,何凤琼,14,60,female,65,renal_calculi,148,55,25.10956903,yes,Ⅱ,no,no,yes,no,no,no,no,108,85,6,3,no,no ,fore,AVG,right,subcalvian,0,no,no,yes,no,no,16,1157,,1,1,bare,14
 94,周施彤,,170,female,32,unknow,160,50,19.53125,yes,Ⅰ,no,no,yes,no,no,no,no,24,10,2,2,no,yes,fore,AVG,right,brachcephalic,≥2,yes,no,no,no,no,13,1642,sharp,1,1,coverd,13
-95,周志辉,,210,male,58,unknow,156,47,19.3129,YES,II,no,no,no,no,no,no,no,18,2,3,3,yes,yes,fore,AVG,left,subcalvian,0,no,no,yes,no,no,10,,,1,1,coverd,11
+95,周志辉,,210,male,58,unknow,156,47,19.3129,yes,II,no,no,no,no,no,no,no,18,2,3,3,yes,yes,fore,AVG,left,subcalvian,0,no,no,yes,no,no,10,,,1,1,coverd,11
 96,李国强,,170,male,65,unknow,155,45,18.7304,yes,I,no,no,yes,yes,no,no,no,96,24,4,3,no,yes,fore,AVG,right,brachiocephalica,1,yes,yes,yes,yes,yes,11,5794,,1,1,coverd,13
 97,江绍勇,,100,male,42,unknow,163,49,18.4425,yes,I,no,no,yes,no,no,no,no,96,25,3,3,no,yes,fore,AVF,left,brachiocephalica,0,no,yes,yes,no,no,22,,,1,1,coverd,13
 98,肖元香,,105,female,61,unknow,158,52,20.8299,yes,I,no,no,yes,yes,no,no,no,24,2,2,2,no,no,upper,AVG,left,brachiocephalica,1,yes,no,yes,yes,yes,13,,,1,2,coverd+bare,11，14
